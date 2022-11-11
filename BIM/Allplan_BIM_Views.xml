@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NemetschekSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NodeID="0c888080-0488-4672-b630-3f3fd36e221b">
+  <ViewNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <ViewNode NodeID="0423e5fe-068e-487f-89f9-25bf953f454a" Name="Views">
+      <ViewNodes>
+        <ViewNode NodeID="1cf44c3e-7762-4582-9731-d7767cd1bc42" Name="North">
+          <View>
+            <Destination>
+              <File ID="100" />
+              <File ID="101" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="db23a0d0-4059-46b4-87ea-27005b682d20" Name="South">
+          <View>
+            <Destination>
+              <File ID="105" />
+              <File ID="106" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="d3d2a8d0-c1a2-44d9-9fc2-598b7c86ac82" Name="West">
+          <View>
+            <Destination>
+              <File ID="110" />
+              <File ID="111" />
+            </Destination>
+          </View>
+        </ViewNode>
+        <ViewNode NodeID="927250d2-c668-4b28-af67-d59905317e57" Name="East">
+          <View>
+            <Destination>
+              <File ID="115" />
+              <File ID="116" />
+            </Destination>
+          </View>
+        </ViewNode>
+      </ViewNodes>
+    </ViewNode>
+  </ViewNodes>
+  <SectionNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <SectionNode NodeID="9e174281-bb00-4edb-84ea-2f0f3b0c7ee0" Name="Sections">
+      <SectionNodes>
+        <SectionNode NodeID="70a3a4c5-6e69-4080-aea9-deb94104c177" Name="Section A-A">
+          <Section>
+            <Destination>
+              <File ID="150" />
+              <File ID="151" />
+            </Destination>
+          </Section>
+        </SectionNode>
+        <SectionNode NodeID="9c8a2122-e64a-44fb-b9cf-7f569b923520" Name="Section B-B">
+          <Section>
+            <Destination>
+              <File ID="155" />
+              <File ID="156" />
+            </Destination>
+          </Section>
+        </SectionNode>
+      </SectionNodes>
+    </SectionNode>
+  </SectionNodes>
+  <ListNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <ListNode NodeID="4054b05d-ba12-48bb-948a-b7b425ba87ba" Name="Reports">
+      <ListNodes>
+        <ListNode NodeID="c288b7fc-0a61-46e9-b40c-0f3ecdbd7894" Name="Unfinished structure">
+          <ListNodes>
+            <ListNode NodeID="a7f97cd7-d2a5-42a8-856a-43f145d2004e" Name="Overview">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="513" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Objects\Objects - overview.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>10</Value>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="6e425ea3-29bc-4aa2-b472-c76cc4a6b4ba" Name="Walls">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="522" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Unfinished structure\Walls.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="1d9e7d22-6dda-440d-81ec-ee87223047a0" Name="Columns">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="523" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Unfinished structure\Columns.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="ccb3af0d-c3cd-452e-9078-dd049ef6d096" Name="Slabs">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="516" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Unfinished structure\Slabs.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="4398813b-d4af-4273-994a-05d0f058df3f" Name="Foundations">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="517" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Unfinished structure\Foundation.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>10</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+          </ListNodes>
+        </ListNode>
+        <ListNode NodeID="f67893e4-9860-4437-b888-b9413908db8a" Name="Finish">
+          <ListNodes>
+            <ListNode NodeID="6b0ed9d6-bcf8-42b0-b77f-85daf4094c7e" Name="Windows">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="777" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Finish\Windows, doors\Windows.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="8ef66e33-693e-4818-9a13-b30d74b82757" Name="Doors">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="778" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Finish\Windows, doors\Doors.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="c646def7-e3ba-4045-b0da-1e51e5bc1b39" Name="Plaster and stucco work">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="1288" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Trades\Plaster and stucco work\Plaster and stucco work.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="3064c4ae-1f5e-4ef3-b760-8a292b7b189a" Name="Screeding work">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="1284" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Trades\Screeding work.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+          </ListNodes>
+        </ListNode>
+        <ListNode NodeID="fd93ec94-247c-4d60-9354-f3ed9702eab3" Name="Net floor area">
+          <ListNodes>
+            <ListNode NodeID="c1d4f248-2fdc-4da9-9ae1-6e5060d05cf0" Name="Floor area">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="257" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer Value="2" />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Rooms, surfaces, stories\Living space\Living space.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="266EDDBC-DD70-4907-BD12-4691F04A2E2C">
+                  <String Value="C:\Users\mauer\Documents\Nemetschek\MAIN_Allplan_Fix\99\Usr\Local\i_o\Living space.xca" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="66923f53-d8f8-4ac3-95aa-7ea87ce86849" Name="Living space, secondary space">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="257" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer Value="2" />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Rooms, surfaces, stories\Living space\Living and secondary space.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="266EDDBC-DD70-4907-BD12-4691F04A2E2C">
+                  <String Value="C:\Users\mauer\Documents\Nemetschek\MAIN_Allplan_Fix\99\Usr\Local\i_o\Living and secondary space.xca" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+            <ListNode NodeID="418f66bf-2597-48f1-9657-ec434a58a94a" Name="Net floor area according to DIN277">
+              <Attributes>
+                <InternalAttribute Key="11E08370-BCF2-4d51-BA8A-B59DE76844C1">
+                  <Integer Value="20" />
+                </InternalAttribute>
+                <InternalAttribute Key="5482AA9E-D8F7-417e-B6C5-48469BF587AD">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="A511D5AE-723B-4e8a-A958-AE3523434108">
+                  <Integer Value="257" />
+                </InternalAttribute>
+                <InternalAttribute Key="BFA09E65-E830-4d11-BC22-88F5BFF5639F">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="13A24B74-FB1D-4008-BBEB-FF2C17DF075C">
+                  <String Value="Prg\xca2xac.exe" />
+                </InternalAttribute>
+                <InternalAttribute Key="570CC3B4-8992-49c2-9EE7-4A3CF5906D31">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="2F2201EB-E8A6-4797-AA4F-DB1DF7F10076">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="BD63FEE4-8099-4f85-8096-1942B484DC23">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="B800BA95-6372-4075-92E7-6D4BC6DA51EA">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="CE89F54D-9E7E-47f0-9A0A-91A9C5671998">
+                  <Integer Value="1" />
+                </InternalAttribute>
+                <InternalAttribute Key="CA96402A-96B6-41fb-AA45-B81E4D8B6637">
+                  <Decimal Value="3" />
+                </InternalAttribute>
+                <InternalAttribute Key="A8AAA8B5-7CBE-440a-A66A-AD573BF016C1">
+                  <Integer />
+                </InternalAttribute>
+                <InternalAttribute Key="E9407DA2-AC5E-4648-8991-BF54A7CCE54A">
+                  <String Value="\Etc\Reports\Eng\Rooms, surfaces, stories\DIN277\Net floor area - overview.rdlc" />
+                </InternalAttribute>
+                <InternalAttribute Key="A5C95245-C610-4d57-9CE8-40982DF7BAE3">
+                  <Logical Value="NBS_TRUE" />
+                </InternalAttribute>
+                <InternalAttribute Key="45BDE3E7-8446-43d8-8F31-BE111A285A99">
+                  <IntegerArray>
+                    <Value>20</Value>
+                    <Value>30</Value>
+                    <Value>40</Value>
+                    <Value>50</Value>
+                  </IntegerArray>
+                </InternalAttribute>
+              </Attributes>
+              <List ConfigurationDirectory="" ConfigurationFile="" ConfigurationList="" />
+            </ListNode>
+          </ListNodes>
+        </ListNode>
+      </ListNodes>
+    </ListNode>
+  </ListNodes>
+</NemetschekSummary>
